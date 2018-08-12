@@ -3,5 +3,5 @@
 ## Package
 
 ```
-https://schemas.openfonts.jp/package/v02/schema.json
+https://schemas.openfonts.jp/package/v0.0.3/schema.json
 ```
